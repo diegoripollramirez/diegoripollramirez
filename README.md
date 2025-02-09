@@ -32,6 +32,6 @@ I'm a passionate **Full-Stack Developer** with experience in **React, TypeScript
 
 ## 📫 Let's connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/diego-ripoll-ramírez/)  
-📧 diego@example.com  
+📧 diegoripollramirez@gmail.com  
 
 🚀 Always open to collaborating on exciting projects!
