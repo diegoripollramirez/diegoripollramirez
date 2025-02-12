@@ -9,9 +9,9 @@ I'm a passionate **Full-Stack Developer** with experience in **React, TypeScript
 - ⚙️ Improve **state management, API integration, and UI design**  
 
 ## 📌 Featured Projects  
-🔹 **[CookSphere](https://github.com/diegoripollramirez/CookSphere.git)** – A meal planner that manages weekly menus and shopping lists.  
 🔹 **[Placay](https://github.com/CodeworksThesisProject/Placay.git)** – A tour planning app using Google Places & Leaflet maps.  
 🔹 **[BarSync](https://github.com/diegoripollramirez/barSync.git)** – A cocktail recipe app based on available ingredients.  
+🔹 **[CookSphere](https://github.com/diegoripollramirez/CookSphere.git)** – A meal planner that manages weekly menus and shopping lists.  
 🔹 **[FaceShare](https://github.com/diegoripollramirez/FaceShare.git)** – An Android app that captures group photos, recognizes faces, and shares high-quality images via WhatsApp.  
 🔹 **[Plattform-Rush](https://github.com/diegoripollramirez/Plattform-Rush.git)** – A platformer game with featuring procedurally generated levels.  
 
