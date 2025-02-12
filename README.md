@@ -13,7 +13,7 @@ I'm a passionate **Full-Stack Developer** with experience in **React, TypeScript
 🔹 **[Placay](https://github.com/CodeworksThesisProject/Placay.git)** – A tour planning app using Google Places & Leaflet maps.  
 🔹 **[BarSync](https://github.com/diegoripollramirez/barSync.git)** – A cocktail recipe app based on available ingredients.  
 🔹 **[FaceShare](https://github.com/diegoripollramirez/FaceShare.git)** – An Android app that captures group photos, recognizes faces, and shares high-quality images via WhatsApp.  
-🔹 **[Plattform-Rush](https://github.com/diegoripollramirez/Plattform-Rush.git)** – A platformer game with coin collection, enemy crushing, and upgrades, featuring procedurally generated levels.  
+🔹 **[Plattform-Rush](https://github.com/diegoripollramirez/Plattform-Rush.git)** – A platformer game with featuring procedurally generated levels.  
 
 ## 🛠 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
